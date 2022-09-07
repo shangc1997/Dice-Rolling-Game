@@ -1,6 +1,6 @@
 # Dice-Rolling-Game
 
-Two players can play a dice-rolling game. 
+Two players can play a dice-rolling game. /n
 New Game button to reset the game. (Player can also use ESC to reset the game)
 Roll Dice button to roll the dice. 
 Hold button to hold the current player score. 
